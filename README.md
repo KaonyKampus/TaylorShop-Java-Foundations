@@ -23,4 +23,5 @@ My goal is to evolve this project as I progress through the certification syllab
 3. [ ] Migrate to **Object-Oriented Programming (OOP)** by creating a dedicated `Product` class.
 
 ---
-Developed by [David Stiven Silva Velandia](https://github.com/KaonyKampus)
+Developed by [David Stiven Silva Velandia](https://github.com/KaonyKampus)  
+Readme was done with AI
